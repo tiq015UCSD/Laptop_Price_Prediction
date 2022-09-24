@@ -1,5 +1,5 @@
 # Laptop_Price_Prediction
-- The link to the project: 
+  - The link to the project:   
 https://github.com/tiq015UCSD/Laptop_Price_Prediction/blob/main/Tian_Qin_Laptop_Price.ipynb
 
 
